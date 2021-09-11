@@ -12,7 +12,7 @@ Herramientas:
 Notas ejecución:
 
   1.  Para ejecutar la aplicación debes tener descargado postgre y tener previamente una base de datos con el nombre sofka (Las tablas las crea el ORM)
-  2.  Luego insertar los datos por medio de SQL de las preguntas y las respuestas (Dejo un archivo.txt con el código)
+  2.  Luego insertar los datos por medio de SQL de las categorias, preguntas y las respuestas (Dejo un archivo.txt con el código)
   3.  Abre tu consola y ubicate en la ruta donde descargaste el challenge
   4.  digita el siguiente código en la consola: npm run dev
   5.  Abre un navegador cualquiera (Recomiendo Chrome) y escribe localhost:8080 como url
